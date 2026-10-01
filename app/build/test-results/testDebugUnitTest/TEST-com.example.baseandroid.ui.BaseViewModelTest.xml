@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.baseandroid.ui.BaseViewModelTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-09-29T11:15:54.255Z" hostname="MacBook-Pro-7" time="0.214">
+  <properties/>
+  <testcase name="retry after a failure recovers" classname="com.example.baseandroid.ui.BaseViewModelTest" time="0.208"/>
+  <testcase name="a throwing repository becomes Error" classname="com.example.baseandroid.ui.BaseViewModelTest" time="0.002"/>
+  <testcase name="starts in Loading, then shows the data" classname="com.example.baseandroid.ui.BaseViewModelTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
